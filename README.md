@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/129494410-f8f4bc66-c8a4-4721-b438-57543d788b0f.png">
   <br />
  COBOL Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/129494413-ef757631-81d0-4087-893f-05a02c46d758.png">
   <br />
 </p>
 
@@ -74,6 +74,5 @@
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/COBOL-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
